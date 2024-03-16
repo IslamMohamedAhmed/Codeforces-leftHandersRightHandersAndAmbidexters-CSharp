@@ -1,0 +1,14 @@
+C:\Users\Islam Mohamed\Documents\C# Projects\LeftHandersRightHandersAndAmbidexters\LeftHandersRightHandersAndAmbidexters\bin\Debug\net8.0\LeftHandersRightHandersAndAmbidexters.exe
+C:\Users\Islam Mohamed\Documents\C# Projects\LeftHandersRightHandersAndAmbidexters\LeftHandersRightHandersAndAmbidexters\bin\Debug\net8.0\LeftHandersRightHandersAndAmbidexters.deps.json
+C:\Users\Islam Mohamed\Documents\C# Projects\LeftHandersRightHandersAndAmbidexters\LeftHandersRightHandersAndAmbidexters\bin\Debug\net8.0\LeftHandersRightHandersAndAmbidexters.runtimeconfig.json
+C:\Users\Islam Mohamed\Documents\C# Projects\LeftHandersRightHandersAndAmbidexters\LeftHandersRightHandersAndAmbidexters\bin\Debug\net8.0\LeftHandersRightHandersAndAmbidexters.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\LeftHandersRightHandersAndAmbidexters\LeftHandersRightHandersAndAmbidexters\bin\Debug\net8.0\LeftHandersRightHandersAndAmbidexters.pdb
+C:\Users\Islam Mohamed\Documents\C# Projects\LeftHandersRightHandersAndAmbidexters\LeftHandersRightHandersAndAmbidexters\obj\Debug\net8.0\LeftHandersRightHandersAndAmbidexters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Islam Mohamed\Documents\C# Projects\LeftHandersRightHandersAndAmbidexters\LeftHandersRightHandersAndAmbidexters\obj\Debug\net8.0\LeftHandersRightHandersAndAmbidexters.AssemblyInfoInputs.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\LeftHandersRightHandersAndAmbidexters\LeftHandersRightHandersAndAmbidexters\obj\Debug\net8.0\LeftHandersRightHandersAndAmbidexters.AssemblyInfo.cs
+C:\Users\Islam Mohamed\Documents\C# Projects\LeftHandersRightHandersAndAmbidexters\LeftHandersRightHandersAndAmbidexters\obj\Debug\net8.0\LeftHandersRightHandersAndAmbidexters.csproj.CoreCompileInputs.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\LeftHandersRightHandersAndAmbidexters\LeftHandersRightHandersAndAmbidexters\obj\Debug\net8.0\LeftHandersRightHandersAndAmbidexters.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\LeftHandersRightHandersAndAmbidexters\LeftHandersRightHandersAndAmbidexters\obj\Debug\net8.0\refint\LeftHandersRightHandersAndAmbidexters.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\LeftHandersRightHandersAndAmbidexters\LeftHandersRightHandersAndAmbidexters\obj\Debug\net8.0\LeftHandersRightHandersAndAmbidexters.pdb
+C:\Users\Islam Mohamed\Documents\C# Projects\LeftHandersRightHandersAndAmbidexters\LeftHandersRightHandersAndAmbidexters\obj\Debug\net8.0\LeftHandersRightHandersAndAmbidexters.genruntimeconfig.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\LeftHandersRightHandersAndAmbidexters\LeftHandersRightHandersAndAmbidexters\obj\Debug\net8.0\ref\LeftHandersRightHandersAndAmbidexters.dll
